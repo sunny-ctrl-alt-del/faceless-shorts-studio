@@ -78,18 +78,18 @@ Every style ships with a style guide, a style sheet and a complete example proje
 
 <table>
   <tr>
-    <td align="center" width="20%"><img src="docs/assets/styles/deep-dive.gif" width="150" alt="Deep Dive 3D"><br><b>Deep Dive 3D</b><br><sub>“What happens if…?” body &amp; science</sub></td>
-    <td align="center" width="20%"><img src="docs/assets/styles/night-file.gif" width="150" alt="Night File 3D"><br><b>Night File 3D</b><br><sub>mysteries &amp; true crime</sub></td>
-    <td align="center" width="20%"><img src="docs/assets/styles/inside-out.gif" width="150" alt="Inside Out"><br><b>Inside Out</b><br><sub>flat 2D x-ray explainers</sub></td>
-    <td align="center" width="20%"><img src="docs/assets/styles/stick-story.gif" width="150" alt="Stick Story"><br><b>Stick Story</b><br><sub>“What would you do if…?”</sub></td>
-    <td align="center" width="20%"><img src="docs/assets/styles/paper-atlas.gif" width="150" alt="Paper Atlas"><br><b>Paper Atlas</b><br><sub>history in cut paper &amp; maps</sub></td>
+    <td align="center" width="20%"><img src="docs/assets/styles/deep-dive.gif" width="136" alt="Deep Dive 3D"><br><b>Deep Dive 3D</b><br><sub>“What happens if…?” body &amp; science</sub></td>
+    <td align="center" width="20%"><img src="docs/assets/styles/night-file.gif" width="136" alt="Night File 3D"><br><b>Night File 3D</b><br><sub>mysteries &amp; true crime</sub></td>
+    <td align="center" width="20%"><img src="docs/assets/styles/inside-out.gif" width="136" alt="Inside Out"><br><b>Inside Out</b><br><sub>flat 2D x-ray explainers</sub></td>
+    <td align="center" width="20%"><img src="docs/assets/styles/stick-story.gif" width="136" alt="Stick Story"><br><b>Stick Story</b><br><sub>“What would you do if…?”</sub></td>
+    <td align="center" width="20%"><img src="docs/assets/styles/paper-atlas.gif" width="136" alt="Paper Atlas"><br><b>Paper Atlas</b><br><sub>history in cut paper &amp; maps</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/assets/styles/tall-tale.gif" width="150" alt="Tall Tale 3D"><br><b>Tall Tale 3D</b><br><sub>funny true stories</sub></td>
-    <td align="center"><img src="docs/assets/styles/kinetic-diagram.gif" width="150" alt="Kinetic Diagram"><br><b>Kinetic Diagram</b><br><sub>how it really works</sub></td>
-    <td align="center"><img src="docs/assets/styles/sim-hud.gif" width="150" alt="Sim HUD 3D"><br><b>Sim HUD 3D</b><br><sub>“the next 60 seconds”</sub></td>
-    <td align="center"><img src="docs/assets/styles/doodle-cartoon.gif" width="150" alt="Doodle Cartoon"><br><b>Doodle Cartoon</b><br><sub>relatable character skits</sub></td>
-    <td align="center"><img src="docs/assets/styles/news-desk.gif" width="150" alt="News Desk"><br><b>News Desk</b><br><sub>today's top 5, on newsprint</sub></td>
+    <td align="center"><img src="docs/assets/styles/tall-tale.gif" width="136" alt="Tall Tale 3D"><br><b>Tall Tale 3D</b><br><sub>funny true stories</sub></td>
+    <td align="center"><img src="docs/assets/styles/kinetic-diagram.gif" width="136" alt="Kinetic Diagram"><br><b>Kinetic Diagram</b><br><sub>how it really works</sub></td>
+    <td align="center"><img src="docs/assets/styles/sim-hud.gif" width="136" alt="Sim HUD 3D"><br><b>Sim HUD 3D</b><br><sub>“the next 60 seconds”</sub></td>
+    <td align="center"><img src="docs/assets/styles/doodle-cartoon.gif" width="136" alt="Doodle Cartoon"><br><b>Doodle Cartoon</b><br><sub>relatable character skits</sub></td>
+    <td align="center"><img src="docs/assets/styles/news-desk.gif" width="136" alt="News Desk"><br><b>News Desk</b><br><sub>today's top 5, on newsprint</sub></td>
   </tr>
 </table>
 
