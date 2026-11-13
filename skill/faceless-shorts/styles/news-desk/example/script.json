@@ -1,0 +1,25 @@
+{
+  "title": "Indian Railways in 5 Numbers",
+  "voice": "bf_emma",
+  "speed": 1.0,
+  "lead": 0.4,
+  "outro": 0.9,
+  "gap": 0.3,
+  "music": "bed",
+  "sources": [
+    "Vivek Express, Dibrugarh to Kanyakumari: India's longest train route, about 4,150-4,190 km (Indian Railways / Northeast Frontier Railway timetable)",
+    "Gorakhpur Junction platform: about 1.37 km after the 2013 remodelling, among the longest railway platforms in the world (Ministry of Railways)",
+    "Chenab Bridge, Jammu and Kashmir: 359 m above the river bed, the world's highest railway arch bridge (Ministry of Railways, opened 2025)",
+    "Indian Railways employs about 1.2 million people (Ministry of Railways annual statistics)",
+    "Indian Railways carries close to 2 crore passengers a day (about 673 crore passenger journeys in 2023-24, Ministry of Railways)"
+  ],
+  "lines": [
+    { "text": "Indian Railways, in five numbers.", "nocap": true },
+    { "text": "Number five: the Vivek Express runs more than four thousand kilometres, from Dibrugarh to Kanyakumari.", "caps": "MORE THAN | *4,000 KM | DIBRUGARH TO | *KANYAKUMARI" },
+    { "text": "Number four: the platform at Gorakhpur is about one point three kilometres long.", "caps": "THE PLATFORM | AT *GORAKHPUR | ABOUT *1.3 KM" },
+    { "text": "Number three: the Chenab bridge stands three hundred and fifty nine metres above the river.", "caps": "THE *CHENAB BRIDGE | *359 METRES | ABOVE THE RIVER" },
+    { "text": "Number two: the railways employ about one point two million people.", "caps": "THE RAILWAYS | EMPLOY ABOUT | *1.2 MILLION" },
+    { "text": "And number one: close to two crore passengers ride every single day.", "caps": "CLOSE TO | *2 CRORE | EVERY SINGLE *DAY" },
+    { "text": "Which one surprised you? Comment one to five.", "nocap": true }
+  ]
+}

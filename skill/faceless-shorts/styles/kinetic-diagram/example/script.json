@@ -1,0 +1,55 @@
+{
+  "title": "Why Tall Buildings Use Revolving Doors",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "lead": 0.4,
+  "outro": 0.9,
+  "gap": 0.28,
+  "music": "bed",
+  "sources": [
+    "ASHRAE Handbook, Fundamentals: 'stack effect' (warm indoor air rises in tall buildings in cold weather, drawing outside air in at the lower floors and creating pressure on ground-floor doors)",
+    "Cullum, Feinberg et al., MIT 'Modeling Revolving Door Usage' (2006): revolving doors exchange far less air than swinging doors because they are never open straight through"
+  ],
+  "lines": [
+    {
+      "text": "Why do tall buildings use revolving doors?",
+      "nocap": true
+    },
+    {
+      "text": "It's not for style, it's because of the air.",
+      "nocap": true
+    },
+    {
+      "text": "In winter, the warm air inside a tall building rises, just like in a chimney,",
+      "caps": "WARM AIR *RISES | LIKE A *CHIMNEY"
+    },
+    {
+      "text": "and that pulls cold air in at the bottom, hard.",
+      "caps": "COLD AIR *IN | AT THE *BOTTOM"
+    },
+    {
+      "text": "Open a normal door down there, and the wind can slam it or hold it shut.",
+      "caps": "A NORMAL *DOOR | CAN *SLAM | OR STAY *SHUT"
+    },
+    {
+      "text": "A revolving door is never open all the way through,",
+      "caps": "NEVER *OPEN | ALL THE WAY *THROUGH"
+    },
+    {
+      "text": "so the building stays sealed, and much less heat escapes.",
+      "caps": "STAYS *SEALED | LESS *HEAT LOST"
+    },
+    {
+      "text": "Engineers call it the stack effect.",
+      "nocap": true
+    },
+    {
+      "text": "So next time you push one, you're holding back a chimney.",
+      "caps": "NEXT TIME YOU *PUSH | HOLDING BACK A *CHIMNEY"
+    },
+    {
+      "text": "Did you know that? Tell me below.",
+      "caps": "DID YOU *KNOW? | TELL ME *BELOW"
+    }
+  ]
+}

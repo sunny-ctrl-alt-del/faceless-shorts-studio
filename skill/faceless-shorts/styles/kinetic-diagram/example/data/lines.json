@@ -1,0 +1,67 @@
+{
+ "duration": 35.526,
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Why do tall buildings use revolving doors?",
+   "start": 0.4,
+   "end": 3.16
+  },
+  {
+   "i": 1,
+   "text": "It's not for style, it's because of the air.",
+   "start": 3.44,
+   "end": 5.932
+  },
+  {
+   "i": 2,
+   "text": "In winter, the warm air inside a tall building rises, just like in a chimney,",
+   "start": 6.212,
+   "end": 11.192
+  },
+  {
+   "i": 3,
+   "text": "and that pulls cold air in at the bottom, hard.",
+   "start": 11.742,
+   "end": 14.596
+  },
+  {
+   "i": 4,
+   "text": "Open a normal door down there, and the wind can slam it or hold it shut.",
+   "start": 14.876,
+   "end": 19.312
+  },
+  {
+   "i": 5,
+   "text": "A revolving door is never open all the way through,",
+   "start": 19.592,
+   "end": 22.542
+  },
+  {
+   "i": 6,
+   "text": "so the building stays sealed, and much less heat escapes.",
+   "start": 23.052,
+   "end": 26.399
+  },
+  {
+   "i": 7,
+   "text": "Engineers call it the stack effect.",
+   "start": 26.679,
+   "end": 28.685
+  },
+  {
+   "i": 8,
+   "text": "So next time you push one, you're holding back a chimney.",
+   "start": 28.965,
+   "end": 32.28
+  },
+  {
+   "i": 9,
+   "text": "Did you know that? Tell me below.",
+   "start": 32.56,
+   "end": 34.346
+  }
+ ]
+}

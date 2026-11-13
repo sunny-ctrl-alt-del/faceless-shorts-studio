@@ -1,0 +1,61 @@
+{
+ "duration": 21.234,
+ "voice": "af_heart",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "When your friend says they're five minutes away.",
+   "start": 0.4,
+   "end": 2.411
+  },
+  {
+   "i": 1,
+   "text": "Where are you? The movie starts in ten minutes!",
+   "start": 2.731,
+   "end": 5.24
+  },
+  {
+   "i": 2,
+   "text": "Relax, I'm literally five minutes away.",
+   "start": 5.56,
+   "end": 7.482
+  },
+  {
+   "i": 3,
+   "text": "Meanwhile, five minutes away.",
+   "start": 7.802,
+   "end": 9.442
+  },
+  {
+   "i": 4,
+   "text": "Okay, okay. I'm putting my shoes on.",
+   "start": 9.762,
+   "end": 11.785
+  },
+  {
+   "i": 5,
+   "text": "You said that twenty minutes ago!",
+   "start": 12.105,
+   "end": 13.689
+  },
+  {
+   "i": 6,
+   "text": "I'm here! Did I miss anything?",
+   "start": 14.009,
+   "end": 15.273
+  },
+  {
+   "i": 7,
+   "text": "Just the whole movie.",
+   "start": 15.593,
+   "end": 16.559
+  },
+  {
+   "i": 8,
+   "text": "Are you the Zara or the Milo? Be honest, tell me below.",
+   "start": 16.879,
+   "end": 20.014
+  }
+ ]
+}

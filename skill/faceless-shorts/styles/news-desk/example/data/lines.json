@@ -1,0 +1,49 @@
+{
+ "duration": 29.558,
+ "voice": "bf_emma",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "Indian Railways, in five numbers.",
+   "start": 0.4,
+   "end": 2.395
+  },
+  {
+   "i": 1,
+   "text": "Number five: the Vivek Express runs more than four thousand kilometres, from Dibrugarh to Kanyakumari.",
+   "start": 2.695,
+   "end": 8.493
+  },
+  {
+   "i": 2,
+   "text": "Number four: the platform at Gorakhpur is about one point three kilometres long.",
+   "start": 8.793,
+   "end": 12.855
+  },
+  {
+   "i": 3,
+   "text": "Number three: the Chenab bridge stands three hundred and fifty nine metres above the river.",
+   "start": 13.155,
+   "end": 17.565
+  },
+  {
+   "i": 4,
+   "text": "Number two: the railways employ about one point two million people.",
+   "start": 17.865,
+   "end": 21.325
+  },
+  {
+   "i": 5,
+   "text": "And number one: close to two crore passengers ride every single day.",
+   "start": 21.625,
+   "end": 25.383
+  },
+  {
+   "i": 6,
+   "text": "Which one surprised you? Comment one to five.",
+   "start": 25.683,
+   "end": 28.358
+  }
+ ]
+}

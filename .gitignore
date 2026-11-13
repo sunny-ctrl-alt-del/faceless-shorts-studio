@@ -1,0 +1,15 @@
+videos/
+state/
+export/
+config/
+channels.json
+ideas/family_plan.json
+ideas/done.md
+ideas/FAILED-*.md
+references/pd-films/*/
+references/*/measure/
+tools/edit/fonts/
+*.mp4
+*.wav
+.DS_Store
+__pycache__/

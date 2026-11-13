@@ -1,0 +1,61 @@
+{
+ "duration": 34.675,
+ "voice": "am_michael",
+ "speed": 1.0,
+ "lines": [
+  {
+   "i": 0,
+   "text": "This is the elevator ride to the top of the tallest building on Earth.",
+   "start": 0.4,
+   "end": 4.735
+  },
+  {
+   "i": 1,
+   "text": "Here are the next sixty seconds.",
+   "start": 5.015,
+   "end": 6.659
+  },
+  {
+   "i": 2,
+   "text": "The doors close, and within five seconds you're moving at ten metres a second.",
+   "start": 6.939,
+   "end": 11.406
+  },
+  {
+   "i": 3,
+   "text": "That's thirty-six kilometres an hour, straight up.",
+   "start": 11.686,
+   "end": 14.44
+  },
+  {
+   "i": 4,
+   "text": "About forty seconds in, you pass the height of the Eiffel Tower.",
+   "start": 14.72,
+   "end": 18.498
+  },
+  {
+   "i": 5,
+   "text": "The air pressure drops by about five percent, so your ears pop.",
+   "start": 18.778,
+   "end": 22.65
+  },
+  {
+   "i": 6,
+   "text": "Then it slows, and at about one minute, the doors open on level one hundred and twenty-four.",
+   "start": 22.93,
+   "end": 28.771
+  },
+  {
+   "i": 7,
+   "text": "Four hundred and fifty-two metres up.",
+   "start": 29.051,
+   "end": 31.405
+  },
+  {
+   "i": 8,
+   "text": "Would you look down? Tell me below.",
+   "start": 31.685,
+   "end": 33.495
+  }
+ ]
+}

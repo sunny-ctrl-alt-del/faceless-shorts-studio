@@ -1,0 +1,19 @@
+{
+ "film": "~/shorts-studio/references/pd-films/<film-id>/film.mp4",
+ "film_title": "<Title (Year)>",
+ "banner": "<4-6 WORD QUOTE OR CLAIM>",
+ "banner2": "<OPTIONAL SECOND LABEL FROM THE DROP, e.g. WHAT HE SAW:>",
+ "dialogue": [
+  {"in": 0.0, "out": 4.0, "x": 0.5, "text": "<the subtitle line, for caption fallback>", "fx": "zoom"},
+  {"in": 0.0, "out": 6.0, "x": 0.5, "text": "<the line the drop lands on>", "fx": "flash"}
+ ],
+ "montage": [
+  {"in": 0.0, "beats": 2, "x": 0.5, "speed": 0.5, "fx": "flash"},
+  {"in": 0.0, "beats": 1, "x": 0.5, "speed": 1.0, "fx": "shake"}
+ ],
+ "ending": {"in": 0.0, "x": 0.5, "speed": 0.6, "fx": "zoom",
+  "card": {"word": "<word>", "say": "/<ipa>/", "pos": "noun", "def": "<our own one-line definition that lands the point, never a dictionary's text>", "ask": "<comment question, e.g. Would you have enlisted? Tell me below.>"}},
+ "music": {"key": "D", "mood": "dark", "seed": 7, "drop_bars": 6, "outro_bars": 2},
+ "grade": "war",
+ "watermark": "<OPTIONAL CHANNEL NAME>"
+}

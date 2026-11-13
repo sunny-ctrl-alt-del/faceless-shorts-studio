@@ -1,0 +1,26 @@
+{
+  "title": "The 60-Second Elevator Ride Up the World's Tallest Building",
+  "voice": "am_michael",
+  "speed": 1.0,
+  "lead": 0.4,
+  "outro": 0.9,
+  "gap": 0.28,
+  "music": "tension",
+  "sources": [
+    "Khaleej Times, 'Up and down Burj Dubai in intelligent elevators': the double-deck elevators travel at 10 metres per second",
+    "Gulf News, 'Special elevator in Burj Khalifa provides top of the world experience': about a minute to the level 124 observation deck",
+    "Burj Khalifa: 828 m tall; At the Top, levels 124-125 (about 452 m); Eiffel Tower 330 m. Air pressure from the standard barometric formula (about -5 % at 450 m)",
+    "Simulation note: the HUD clock, speed and altitude follow a simple model (5 s doors, 5 s to 10 m/s, cruise, 5 s to stop), not measured data"
+  ],
+  "lines": [
+    { "text": "This is the elevator ride to the top of the tallest building on Earth.", "caps": "THE *TALLEST | BUILDING ON *EARTH" },
+    { "text": "Here are the next sixty seconds.", "caps": "THE NEXT | *60 SECONDS" },
+    { "text": "The doors close, and within five seconds you're moving at ten metres a second.", "caps": "DOORS *CLOSE | *10 METRES | A *SECOND" },
+    { "text": "That's thirty-six kilometres an hour, straight up.", "caps": "*36 KM/H | STRAIGHT *UP" },
+    { "text": "About forty seconds in, you pass the height of the Eiffel Tower.", "caps": "40 SECONDS *IN | PAST THE *EIFFEL | *TOWER" },
+    { "text": "The air pressure drops by about five percent, so your ears pop.", "caps": "PRESSURE *-5% | YOUR EARS *POP" },
+    { "text": "Then it slows, and at about one minute, the doors open on level one hundred and twenty-four.", "caps": "IT *SLOWS | ONE *MINUTE | LEVEL *124" },
+    { "text": "Four hundred and fifty-two metres up.", "caps": "*452 METRES | *UP" },
+    { "text": "Would you look down? Tell me below.", "caps": "WOULD YOU *LOOK DOWN? | TELL ME *BELOW" }
+  ]
+}

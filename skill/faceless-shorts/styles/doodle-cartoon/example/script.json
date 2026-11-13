@@ -1,0 +1,22 @@
+{
+  "title": "When Your Friend Says 'Five Minutes Away'",
+  "voice": "af_heart",
+  "speed": 1.0,
+  "lead": 0.4,
+  "outro": 0.9,
+  "gap": 0.32,
+  "music": "bed",
+  "cast": { "narrator": "af_heart", "zara": "af_bella", "milo": "am_puck" },
+  "sources": ["Original comedy skit (no factual claims)."],
+  "lines": [
+    { "text": "When your friend says they're five minutes away.", "caps": "WHEN YOUR FRIEND SAYS | *FIVE MINUTES | *AWAY" },
+    { "text": "Where are you? The movie starts in ten minutes!", "voice": "af_bella", "nocap": true },
+    { "text": "Relax, I'm literally five minutes away.", "voice": "am_puck", "nocap": true },
+    { "text": "Meanwhile, five minutes away.", "caps": "*MEANWHILE... | 5 MINUTES *AWAY" },
+    { "text": "Okay, okay. I'm putting my shoes on.", "voice": "am_puck", "nocap": true },
+    { "text": "You said that twenty minutes ago!", "voice": "af_bella", "nocap": true },
+    { "text": "I'm here! Did I miss anything?", "voice": "am_puck", "nocap": true },
+    { "text": "Just the whole movie.", "voice": "af_bella", "nocap": true },
+    { "text": "Are you the Zara or the Milo? Be honest, tell me below.", "caps": "ZARA OR *MILO? | BE *HONEST | TELL ME *BELOW" }
+  ]
+}
