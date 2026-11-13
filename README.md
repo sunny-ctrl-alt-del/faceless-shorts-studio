@@ -99,15 +99,13 @@ Every style ships with a style guide, a style sheet and a complete example proje
 
 ```mermaid
 flowchart LR
-  P["📅 Plan<br/>weekly calendar"] --> S["✍️ Script<br/>researched hook → punchline"]
-  S --> V["🎙️ Voice<br/>Kokoro + Whisper timings"]
-  V --> A["🎨 Animate<br/>style kit, shot by shot"]
-  A --> Q{"🔍 QA<br/>every frame"}
-  Q -- "fix (≤ 4 rounds)" --> A
-  Q -- pass --> R["🎬 Render<br/>1080×1920 · −14 LUFS"]
-  R --> H["⏸️ Hold<br/>until its slot"]
-  H --> U["📤 Post<br/>Drive → Zapier → YouTube"]
-  U --> M["📈 Measure<br/>views per combo"]
+  P["📅 <b>Plan</b><br/>weekly calendar"] --> W["✍️ <b>Write + voice</b><br/>researched script,<br/>local AI voice"]
+  W --> A["🎨 <b>Animate</b><br/>shot by shot, in code"]
+  A --> Q{"🔍 <b>QA</b><br/>every frame"}
+  Q -- fix --> A
+  Q -- pass --> R["🎬 <b>Render + hold</b><br/>1080×1920 MP4<br/>until its slot"]
+  R --> U["📤 <b>Post</b><br/>Drive → Zapier<br/>→ YouTube"]
+  U --> M["📈 <b>Measure</b><br/>views per<br/>format × style"]
   M --> P
 ```
 
